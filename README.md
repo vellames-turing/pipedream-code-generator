@@ -3,7 +3,7 @@
 To create an action run `node ./src/app.mjs`
 The following params are mandatory
 
-`action` = Is the type of action you want to execute, for now, only "action" is available, in the future, "source" and "app" will be implemented
+`action` = The action you want to execute, for now, only **"action"** is available, in the future, **"source"** and **"app"** will be implemented
 
 `appName` = Your app name
 
